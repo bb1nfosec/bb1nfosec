@@ -1,4 +1,3 @@
-
 <h2 align="center">I break AI systems for a living.<br>Then I build the defenses.</h2>
 
 <p align="center">
