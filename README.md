@@ -36,24 +36,40 @@ regional languages.
 
 ### `~/track-record`
 
-Bug bounty across HackerOne, Bugcrowd, Immunefi, Code4rena, and YesWeHack.
-Conference talks: **BalCCon 2k18** (Novi Sad) — hybrid-cloud red teaming against Azure AD;
-**ThreatCon 2019** (Kathmandu).
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/bb1nfosec/bb1nfosec/main/assets/credentials-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bb1nfosec/bb1nfosec/main/assets/credentials-light.svg">
+  <img src="https://raw.githubusercontent.com/bb1nfosec/bb1nfosec/main/assets/credentials-dark.svg" width="100%" alt="Track record: 16+ years operating since 2009, 238 stars across 22 open-source repos, 5,165 Security StackExchange reputation, 119 SE badges including 13 gold, and halls of fame across HackerOne, Bugcrowd, Immunefi, Code4rena and YesWeHack.">
+</picture>
+
+Conference talks — [**BalCCon 2k18**](https://web.archive.org/web/20240919221031/https://2k18.balccon.org/speakers/249.html) (Novi Sad): hybrid-cloud red teaming against Azure AD &nbsp;·&nbsp; [**ThreatCon 2019**](https://2019.threatcon.io/about_speaker?id=Vignesh) (Kathmandu): hacking human lives via body-area networks.
+
+### `~/writing`
+
+[`bbinfosec.medium.com`](https://bbinfosec.medium.com) — selected posts:
+
+- When the AI Traffic *Is* the Threat — why SOC teams aren't ready for agentic C2 &nbsp;`2025`
+- The CSRF Myth — why CSRF protection isn't what you think &nbsp;`2025`
+- How I Hacked Netflix Users &nbsp;`2018`
 
 ### `~/signals`
 
 [`X · @bbinfosec`](https://x.com/bbinfosec) &nbsp;·&nbsp;
-[`ORCID · 0009-0001-7412-0211`](https://orcid.org/0009-0001-7412-0211) &nbsp;·&nbsp;
-[`writing · medium`](https://bbinfosec.medium.com) &nbsp;·&nbsp;
-[`linkedin`](https://in.linkedin.com/in/bb1nfosec) &nbsp;·&nbsp;
+[`ORCID`](https://orcid.org/0009-0001-7412-0211) &nbsp;·&nbsp;
+[`Medium`](https://bbinfosec.medium.com) &nbsp;·&nbsp;
+[`Security.SE`](https://security.stackexchange.com/users/11679/blueberry-vignesh4303) &nbsp;·&nbsp;
+[`HackTheBox`](https://profile.hackthebox.com/profile/019e104d-013a-70ec-8ea0-b063263b76b8) &nbsp;·&nbsp;
+[`LinkedIn`](https://in.linkedin.com/in/bb1nfosec) &nbsp;·&nbsp;
 `India`
 
 <!-- TODO optional: employer name (e.g. "Cybersecurity Systems Expert @ <org>") — uncomment only if you want it public -->
 <!-- TODO optional forward-mode teaser: "currently: AI-reasoning failure modes & a defensive threat-intel field guide" — only if you're announcing -->
 
 <!--
-  third-party origins (full external dependency surface of this README):
-    raw.githubusercontent.com  — self-hosted SVG banners + focus pills from THIS repo (no per-view code execution)
+  third-party origins FETCHED on profile view (the rendered dependency surface):
+    raw.githubusercontent.com  — self-hosted SVGs from THIS repo: banner, focus pills, credentials card (no per-view code execution)
   No live stat cards, no visitor counter, no typing-svg service, no Google Fonts, no shields.io.
-  Banner/focus SVGs use only system font stacks (no @font-face fetch) and CSS animation gated by prefers-reduced-motion.
+  All SVGs use system font stacks (no @font-face fetch) and CSS animation gated by prefers-reduced-motion.
+  Outbound LINKS only (not fetched on view): x.com, orcid.org, medium.com, security.stackexchange.com,
+    hackthebox.com, linkedin.com, web.archive.org, github.com, threatcon.io.
 -->
