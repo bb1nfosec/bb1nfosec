@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 862 40" width="862" height="40" role="img"
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 978 40" width="978" height="40" role="img"
      aria-label="Focus areas: AI security and LLM red-teaming, source-code review, supply-chain and OPSEC, RISC-V and hardware auditability.">
   <style>.p{font-family:ui-monospace,"SF Mono",Menlo,Consolas,"DejaVu Sans Mono",monospace;font-size:13px;fill:#1a2230}</style>
   <g>
-    <rect x="1"   y="4" width="244" height="32" rx="16" fill="#efe7d4" stroke="#9a7414" stroke-opacity="0.7"/>
-    <text x="123" y="25" text-anchor="middle" class="p">AI security / LLM red-teaming</text>
+    <rect x="2"   y="4" width="270" height="32" rx="16" fill="#efe7d4" stroke="#9a7414" stroke-opacity="0.7"/>
+    <text x="137" y="25" text-anchor="middle" class="p">AI security / LLM red-teaming</text>
 
-    <rect x="255" y="4" width="170" height="32" rx="16" fill="#efe7d4" stroke="#366690" stroke-opacity="0.7"/>
-    <text x="340" y="25" text-anchor="middle" class="p">source-code review</text>
+    <rect x="286" y="4" width="184" height="32" rx="16" fill="#efe7d4" stroke="#366690" stroke-opacity="0.7"/>
+    <text x="378" y="25" text-anchor="middle" class="p">source-code review</text>
 
-    <rect x="435" y="4" width="194" height="32" rx="16" fill="#efe7d4" stroke="#9a7414" stroke-opacity="0.7"/>
-    <text x="532" y="25" text-anchor="middle" class="p">supply-chain &amp; OPSEC</text>
+    <rect x="484" y="4" width="200" height="32" rx="16" fill="#efe7d4" stroke="#9a7414" stroke-opacity="0.7"/>
+    <text x="584" y="25" text-anchor="middle" class="p">supply-chain &amp; OPSEC</text>
 
-    <rect x="639" y="4" width="222" height="32" rx="16" fill="#efe7d4" stroke="#366690" stroke-opacity="0.7"/>
-    <text x="750" y="25" text-anchor="middle" class="p">RISC-V / hardware auditability</text>
+    <rect x="698" y="4" width="278" height="32" rx="16" fill="#efe7d4" stroke="#366690" stroke-opacity="0.7"/>
+    <text x="837" y="25" text-anchor="middle" class="p">RISC-V / hardware auditability</text>
   </g>
 </svg>
