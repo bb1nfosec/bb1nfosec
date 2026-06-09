@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 280" width="900" height="280" role="img"
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 222" width="900" height="222" role="img"
      aria-label="bb1nfosec — independent security researcher and cybersecurity systems engineer working on critical infrastructure.">
   <defs>
     <!-- palette: ink #0d1117 · brass #d4a72c · steel #5a91b4 · parchment #e6dcc3 · dim #7d8590 -->
-    <clipPath id="type-d"><rect id="typebar-d" x="40" y="150" width="640" height="26"/></clipPath>
+    <clipPath id="type-d"><rect id="typebar-d" x="40" y="152" width="600" height="22"/></clipPath>
     <linearGradient id="sweep-d" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%"  stop-color="#d4a72c" stop-opacity="0"/>
       <stop offset="50%" stop-color="#d4a72c" stop-opacity="0.10"/>
@@ -11,7 +11,6 @@
     <style>
       .mono { font-family: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, Consolas, "DejaVu Sans Mono", monospace; }
       .disp { font-family: "Segoe UI", "Helvetica Neue", Arial, system-ui, sans-serif; }
-      /* default = static, fully readable frame (also the reduced-motion state) */
       #typebar-d { width: 600px; }
       .cursor-d { opacity: 1; transform: translateX(0); }
       .sweep-d  { opacity: 0; }
@@ -23,12 +22,12 @@
       @keyframes type-d  { to { width: 600px; } }
       @keyframes blink-d { 50% { opacity: 0; } }
       @keyframes track-d { from { transform: translateX(-580px); } to { transform: translateX(0); } }
-      @keyframes scan-d  { 0% { transform: translateY(-40px); } 100% { transform: translateY(260px); } }
+      @keyframes scan-d  { 0% { transform: translateY(-40px); } 100% { transform: translateY(214px); } }
     </style>
   </defs>
 
   <!-- window -->
-  <rect x="6" y="6" width="888" height="268" rx="11" fill="#0d1117" stroke="#21262d" stroke-width="1.5"/>
+  <rect x="6" y="6" width="888" height="210" rx="11" fill="#0d1117" stroke="#21262d" stroke-width="1.5"/>
   <!-- title bar -->
   <path d="M6 17 a11 11 0 0 1 11 -11 H883 a11 11 0 0 1 11 11 V40 H6 Z" fill="#10151c"/>
   <line x1="6" y1="40" x2="894" y2="40" stroke="#21262d" stroke-width="1"/>
@@ -55,13 +54,8 @@
   </g>
   <rect class="cursor-d" x="630" y="156" width="9" height="16" fill="#d4a72c"/>
 
-  <!-- focus row -->
-  <text x="40" y="208" class="mono" font-size="13" letter-spacing="0.3">
-    <tspan fill="#7d8590">~/focus  </tspan><tspan fill="#5a91b4">AI red-teaming · source-code review · supply-chain &amp; OPSEC · RISC-V auditability</tspan>
-  </text>
-
-  <!-- footer rule + tags -->
-  <line x1="40" y1="232" x2="860" y2="232" stroke="#21262d" stroke-width="1"/>
-  <text x="40" y="254" class="mono" font-size="12" fill="#7d8590" letter-spacing="0.4">source-code-review vuln research</text>
-  <text x="860" y="254" text-anchor="end" class="mono" font-size="12" fill="#7d8590" letter-spacing="0.4">India · ORCID 0009-0001-7412-0211</text>
+  <!-- footer rule + letterhead -->
+  <line x1="40" y1="190" x2="860" y2="190" stroke="#21262d" stroke-width="1"/>
+  <text x="40" y="210" class="mono" font-size="12" fill="#7d8590" letter-spacing="0.4">source-code-review vuln research</text>
+  <text x="860" y="210" text-anchor="end" class="mono" font-size="12" fill="#7d8590" letter-spacing="0.4">India · ORCID 0009-0001-7412-0211</text>
 </svg>
